@@ -25,12 +25,12 @@
       "versionDescription": "Interface/Look-and-Feel\n-Estuary and GUI info fixes, including scrollbar behaviour, icon names, label changes\n-Add dual support for Artist Slideshow 2.x and 3.x\n-Fix to always allow 'Black' screen saver\n-Fix wrong sort order list for music playlists node\n\nPlayback/Display\n-Fixes to external subtitle playback\n-Fixes to support for archives over UPnP\n-Fixes to \"queue item\" and \"play next\" for STRM files with Plugin URL\n-Fixes to \"hide watched\" status for videos\n-Fixes to resume handling when marking a file as unwatched\n\nPVR\n-Fixes to EPG database storage, start/stop of PVR service\n-Fix handling of open modal dialogs\n-Fixes to commercial skip (EDL) processing \n\nOther/General Fixes\n-Multiple Android changes around windowing, secure decoder and SDK versions\n-Multiple iOS changes, including support for iPhone 11 and 7th generation iPad, plus -fixes for touch input, overlapping drawing surfaces, sandbox checks, notch support.\n-MacOS fixes around windowing, where only a portion of the screen was correctly rendered\n-Log files improvements around verbosity and security\n-Shoutcast improvements\n-Various fixes and improvements to add-on settings, package build documentation, build system, advancedsettings.xml, skin/profile changes and many other subsystems\n",
       "downloadURL": "https://github.com/jawshoeadan/KodiAltSource/releases/download/18.6/Kodi_v18.7.ipa",
       "localizedDescription": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. \n\nWith its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows. https://kodi.tv/",
-      "iconURL": "https://raw.githubusercontent.com/jawshoeadan/KodiAltSource/master/AppIcon76x76%402x.png",
+      "iconURL": "https://raw.githubusercontent.com/r3dlobst3r/KodiAltSource/master/AppIcon76x76%402x.png",
       "tintColor": "2e9cc8",
       "size": 83034112,
       "beta": false,
       "screenshotURLs": [
-        "https://github.com/jawshoeadan/KodiAltSource/raw/master/kodiscreenshot.jpg"
+        "https://github.com/r3dlobst3r/KodiAltSource/raw/master/kodiscreenshot.jpg"
       ]
     }
   ]
