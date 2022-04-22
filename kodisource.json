@@ -9,7 +9,7 @@
       "caption": "Kodi is now available through Altstore",
       "tintColor": "2e9cc8",
       "imageURL": "https://kodi.tv/sites/default/files/article/field_image/Kodi_Splash_v18.6_Leia_Final_1080p.jpg",
-      "appID": "kodi_19.4_ios.ipa",
+      "appID": "org.xbmc.kodi-ios",
       "date": "2020-03-24T14:00:00-07:00",
       "notify": true
     }
@@ -17,7 +17,7 @@
   "apps": [
     {
       "name": "Kodi 19.4",
-      "bundleIdentifier": "kodi_19.4_ios.ipa",
+      "bundleIdentifier": "org.xbmc.kodi-ios",
       "developerName": "Team Kodi",
       "subtitle": "An Open Source Entertainment Center",
       "version": "18.7",
