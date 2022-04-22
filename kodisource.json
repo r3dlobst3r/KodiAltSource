@@ -1,5 +1,4 @@
 {
-  "name": "Kodi Source",
   "identifier": "com.Kodi.Altsource",
   "userInfo": {},
   "news": [
@@ -16,7 +15,6 @@
   ],
   "apps": [
     {
-      "name": "Kodi 19.4",
       "bundleIdentifier": "kodi_19.4_ios.ipa",
       "developerName": "Team Kodi",
       "subtitle": "An Open Source Entertainment Center",
